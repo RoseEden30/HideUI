@@ -1,0 +1,8 @@
+{
+    "dependencies": [
+        "simpleini",
+        "spdlog",
+        "directxtk",
+        "rapidcsv"
+    ]
+}
